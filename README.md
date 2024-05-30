@@ -1,5 +1,5 @@
-# scansion-lyrics
-Scansion-based Lyrics Generation
+# Scansion-based Lyrics Generation
+
 Welcome to the Scansion-based Lyrics Generation repository! This repository contains the code, data, and instructions for the paper titled "Scansion-based Lyrics Generation."
 
 #Introduction
