@@ -10,3 +10,7 @@ Features
 - Use scansion to convert lyrics into a pseudo-melody format.
 - Support for multiple languages, including English and Mandarin.
 - Evaluation metrics for singability and intelligibility.
+
+The paper can be found at https://aclanthology.org/2024.lrec-main.1252.pdf
+
+
