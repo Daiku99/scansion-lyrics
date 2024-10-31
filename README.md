@@ -2,7 +2,7 @@
 
 Welcome to the Scansion-based Lyrics Generation repository! This repository contains the code, data, and instructions for the paper titled "Scansion-based Lyrics Generation."
 
-#Introduction
+## Introduction
 This repository provides the implementation of the Scansion-based Lyrics Generation model described in our paper. The model generates lyrics that align with given melodies by leveraging scansion techniques from poetry to ensure singability and intelligibility.
 
 Features
