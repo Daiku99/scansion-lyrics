@@ -1,0 +1,400 @@
+gpt2	0	<flat> <fall> <rise> <flat> <rise> <fall> <fall>
+gpt2	0	<flat> <flat> <rise> <fall> <rise> <flat> <fall>
+gpt2	0	<flat> <rise> <fall> <fall> <rise> <fall> <rise> <fall>
+gpt2	0	<flat> <rise> <fall> <fall> <rise>
+gpt2	1	<flat> <flat> <flat> <fall> <flat> <rise> <flat> <fall> <rise> <rise>
+gpt2	1	<flat> <fall> <fall> <fall> <rise> <rise> <fall> <rise> <rise> <fall>
+gpt2	1	<flat> <fall> <rise> <rise> <fall> <rise> <fall> <rise> <rise>
+gpt2	1	<flat> <rise> <fall> <rise> <rise> <fall> <rise> <rise> <flat>
+gpt2	2	<flat> <flat> <fall> <rise> <fall> <rise> <fall> <fall> <rise> <fall>
+gpt2	2	<flat> <flat> <rise> <rise> <fall> <rise> <fall> <fall> <rise> <rise>
+gpt2	2	<flat> <rise> <fall> <flat> <flat> <fall> <fall> <rise> <flat> <fall>
+gpt2	2	<flat> <flat> <flat> <rise> <fall> <rise> <flat> <fall>
+gpt2	3	<flat> <fall> <flat> <fall> <rise> <flat> <fall> <fall>
+gpt2	3	<flat> <fall> <rise> <fall> <rise> <rise>
+gpt2	3	<flat> <fall> <flat> <fall> <fall> <rise> <fall> <flat>
+gpt2	3	<flat> <flat> <fall> <rise> <fall> <rise>
+gpt2	4	<flat> <rise> <fall> <rise> <fall> <rise> <flat> <fall> <rise>
+gpt2	4	<flat> <fall> <rise> <flat> <flat> <fall> <rise> <rise> <flat> <flat>
+gpt2	4	<flat> <rise> <rise> <flat> <fall> <fall> <fall> <rise> <fall>
+gpt2	4	<flat> <fall> <rise> <fall> <rise> <rise>
+gpt2	5	<flat> <fall> <rise> <rise> <flat> <fall> <flat> <flat> <flat>
+gpt2	5	<flat> <flat> <fall> <flat> <flat> <flat> <rise> <flat> <fall>
+gpt2	5	<flat> <flat> <fall> <rise> <flat> <flat> <fall> <rise>
+gpt2	5	<flat> <rise> <flat> <rise> <fall> <rise> <fall>
+gpt2	6	<flat> <flat> <flat> <rise> <flat> <flat> <fall> <fall> <rise>
+gpt2	6	<flat> <flat> <fall> <rise> <fall> <rise>
+gpt2	6	<flat> <fall> <rise> <fall> <fall> <rise> <fall> <flat> <flat>
+gpt2	6	<flat> <rise> <fall> <rise> <fall> <rise> <rise>
+gpt2	7	<flat> <rise> <fall> <fall> <rise> <fall> <rise> <fall>
+gpt2	7	<flat> <fall> <rise> <rise> <fall> <rise> <rise> <fall>
+gpt2	7	<flat> <rise> <fall> <fall> <rise> <rise> <fall> <flat>
+gpt2	7	<flat> <rise> <flat> <fall> <fall> <flat> <rise> <fall> <fall> <rise>
+gpt2	8	<flat> <rise> <flat> <fall> <rise> <fall> <flat> <rise> <fall>
+gpt2	8	<flat> <fall> <flat> <flat> <fall> <rise> <fall> <rise> <rise>
+gpt2	8	<flat> <flat> <fall> <rise> <fall> <rise> <fall> <rise> <rise> <flat>
+gpt2	8	<flat> <fall> <fall> <rise> <flat> <fall> <rise> <rise> <flat> <flat> <flat>
+gpt2	9	<flat> <fall> <flat> <rise> <fall> <rise> <rise> <fall> <flat> <rise>
+gpt2	9	<flat> <flat> <flat> <flat> <fall> <fall> <rise> <fall> <flat> <rise>
+gpt2	9	<flat> <rise> <fall> <fall> <flat> <rise> <fall> <rise> <rise>
+gpt2	9	<flat> <flat> <rise> <fall> <rise> <flat> <fall>
+icomposer	0	<flat> <fall> <rise> <fall> <rise> <flat> <flat>
+icomposer	0	<flat> <fall> <rise> <fall> <flat> <flat> <rise>
+icomposer	0	<flat> <rise> <flat> <flat> <fall> <rise> <flat> <fall>
+icomposer	0	<flat> <flat> <fall> <fall> <rise>
+icomposer	1	<flat> <rise> <fall> <flat> <fall> <rise> <fall> <flat> <rise> <fall>
+icomposer	1	<flat> <rise> <flat> <rise> <fall> <fall> <rise> <fall> <rise> <rise>
+icomposer	1	<flat> <rise> <rise> <rise> <fall> <rise> <rise> <fall> <rise>
+icomposer	1	<flat> <flat> <fall> <rise> <fall> <rise> <flat> <flat> <fall>
+icomposer	2	<flat> <flat> <flat> <fall> <fall> <fall> <flat> <rise> <fall> <rise>
+icomposer	2	<flat> <flat> <fall> <rise> <flat> <fall> <rise> <flat> <flat> <flat>
+icomposer	2	<flat> <flat> <flat> <fall> <fall> <fall> <flat> <rise> <fall> <rise>
+icomposer	2	<flat> <fall> <rise> <fall> <fall> <fall> <rise> <fall>
+icomposer	3	<flat> <rise> <flat> <fall> <rise> <rise> <fall> <rise>
+icomposer	3	<flat> <flat> <fall> <rise> <fall> <rise>
+icomposer	3	<flat> <flat> <fall> <flat> <rise> <fall> <rise> <flat>
+icomposer	3	<flat> <rise> <fall> <rise> <flat> <flat>
+icomposer	4	<flat> <rise> <fall> <rise> <flat> <fall> <fall> <rise> <fall>
+icomposer	4	<flat> <rise> <fall> <rise> <rise> <fall> <fall> <rise> <rise> <flat>
+icomposer	4	<flat> <fall> <rise> <rise> <flat> <fall> <rise> <fall> <rise>
+icomposer	4	<flat> <rise> <flat> <fall> <rise> <fall>
+icomposer	5	<flat> <flat> <flat> <fall> <rise> <rise> <fall> <rise> <rise>
+icomposer	5	<flat> <fall> <rise> <rise> <fall> <flat> <rise> <fall> <rise>
+icomposer	5	<flat> <flat> <flat> <flat> <rise> <flat> <flat> <fall>
+icomposer	5	<flat> <flat> <rise> <flat> <flat> <fall> <rise>
+icomposer	6	<flat> <rise> <flat> <rise> <fall> <rise> <fall> <rise> <fall>
+icomposer	6	<flat> <rise> <fall> <fall> <rise> <flat>
+icomposer	6	<flat> <rise> <flat> <rise> <fall> <rise> <fall> <rise> <fall>
+icomposer	6	<flat> <rise> <flat> <rise> <fall> <fall> <rise>
+icomposer	7	<flat> <flat> <fall> <rise> <flat> <fall> <rise> <flat>
+icomposer	7	<flat> <rise> <fall> <rise> <fall> <flat> <rise> <fall>
+icomposer	7	<flat> <flat> <fall> <rise> <flat> <fall> <rise> <flat>
+icomposer	7	<flat> <fall> <rise> <rise> <flat> <flat> <fall> <flat> <rise> <flat>
+icomposer	8	<flat> <rise> <fall> <rise> <rise> <fall> <fall> <rise> <rise>
+icomposer	8	<flat> <fall> <flat> <rise> <fall> <flat> <rise> <flat> <fall>
+icomposer	8	<flat> <flat> <fall> <rise> <flat> <flat> <flat> <flat> <flat> <fall>
+icomposer	8	<flat> <rise> <fall> <rise> <flat> <fall> <fall> <rise> <fall> <rise> <fall>
+icomposer	9	<flat> <flat> <flat> <fall> <rise> <rise> <fall> <fall> <rise> <flat>
+icomposer	9	<flat> <rise> <fall> <rise> <fall> <rise> <flat> <flat> <fall> <rise>
+icomposer	9	<flat> <flat> <flat> <rise> <fall> <fall> <rise> <rise> <fall>
+icomposer	9	<flat> <flat> <rise> <flat> <flat> <flat> <flat>
+songnet	0	<flat> <flat> <fall> <rise> <rise> <fall> <rise>
+songnet	0	<flat> <rise> <flat> <fall> <rise> <flat> <rise>
+songnet	0	<flat> <flat> <flat> <fall> <rise> <fall> <fall> <rise>
+songnet	0	<flat> <rise> <fall> <flat> <rise>
+songnet	1	<flat> <rise> <fall> <rise> <fall> <flat> <rise> <flat> <fall> <rise>
+songnet	1	<flat> <flat> <rise> <fall> <flat> <rise> <fall> <fall> <rise> <flat>
+songnet	1	<flat> <fall> <rise> <fall> <rise> <fall> <flat> <rise> <fall>
+songnet	1	<flat> <flat> <rise> <flat> <fall> <flat> <fall> <rise> <fall>
+songnet	2	<flat> <fall> <rise> <flat> <fall> <rise> <rise> <fall> <rise> <flat>
+songnet	2	<flat> <rise> <fall> <fall> <rise> <fall> <rise> <flat> <fall> <fall>
+songnet	2	<flat> <flat> <fall> <rise> <rise> <flat> <fall> <rise> <fall> <rise>
+songnet	2	<flat> <rise> <rise> <flat> <fall> <rise> <flat> <flat>
+songnet	3	<flat> <flat> <flat> <fall> <rise> <rise> <fall> <rise>
+songnet	3	<flat> <fall> <rise> <rise> <fall> <flat>
+songnet	3	<flat> <rise> <fall> <rise> <rise> <fall> <flat> <flat>
+songnet	3	<flat> <rise> <flat> <fall> <rise> <flat>
+songnet	4	<flat> <fall> <rise> <flat> <fall> <rise> <rise> <fall> <rise>
+songnet	4	<flat> <flat> <flat> <flat> <rise> <rise> <fall> <fall> <rise> <rise>
+songnet	4	<flat> <fall> <rise> <flat> <fall> <rise> <rise> <fall> <rise>
+songnet	4	<flat> <flat> <rise> <fall> <rise> <flat>
+songnet	5	<flat> <flat> <rise> <flat> <fall> <fall> <rise> <flat> <fall>
+songnet	5	<flat> <fall> <rise> <flat> <fall> <rise> <fall> <rise> <fall>
+songnet	5	<flat> <rise> <fall> <rise> <fall> <rise> <fall> <rise>
+songnet	5	<flat> <rise> <fall> <rise> <fall> <flat> <rise>
+songnet	6	<flat> <fall> <flat> <fall> <rise> <fall> <fall> <rise> <rise>
+songnet	6	<flat> <rise> <fall> <rise> <flat> <rise>
+songnet	6	<flat> <rise> <fall> <rise> <flat> <fall> <fall> <rise> <flat>
+songnet	6	<flat> <rise> <fall> <rise> <fall> <rise> <rise>
+songnet	7	<flat> <rise> <fall> <rise> <rise> <fall> <flat> <rise>
+songnet	7	<flat> <rise> <flat> <flat> <flat> <fall> <rise> <flat>
+songnet	7	<flat> <fall> <fall> <rise> <flat> <fall> <rise> <fall>
+songnet	7	<flat> <flat> <flat> <flat> <rise> <flat> <fall> <rise> <rise> <flat>
+songnet	8	<flat> <fall> <rise> <flat> <fall> <rise> <flat> <fall> <flat>
+songnet	8	<flat> <flat> <rise> <fall> <flat> <fall> <rise> <flat> <flat>
+songnet	8	<flat> <flat> <flat> <rise> <fall> <rise> <fall> <rise> <fall> <rise>
+songnet	8	<flat> <rise> <rise> <rise> <fall> <flat> <fall> <rise> <rise> <fall> <rise>
+songnet	9	<flat> <rise> <fall> <rise> <flat> <rise> <fall> <rise> <fall> <rise>
+songnet	9	<flat> <flat> <fall> <fall> <rise> <flat> <flat> <flat> <fall> <flat>
+songnet	9	<flat> <flat> <flat> <fall> <rise> <fall> <rise> <flat> <fall>
+songnet	9	<flat> <fall> <flat> <rise> <fall> <rise> <fall>
+ours	0	<flat> <flat> <fall> <rise> <flat> <fall> <rise>
+ours	0	<flat> <flat> <fall> <rise> <fall> <rise> <flat>
+ours	0	<flat> <flat> <fall> <rise> <fall> <fall> <rise> <fall>
+ours	0	<flat> <flat> <rise> <flat> <fall>
+ours	1	<flat> <flat> <rise> <flat> <fall> <fall> <rise> <fall> <rise> <fall>
+ours	1	<flat> <flat> <rise> <flat> <flat> <fall> <flat> <rise> <fall> <rise>
+ours	1	<flat> <flat> <flat> <fall> <fall> <rise> <flat> <rise> <fall>
+ours	1	<flat> <flat> <rise> <flat> <flat> <flat> <flat> <fall> <flat>
+ours	2	<flat> <fall> <fall> <rise> <fall> <rise> <fall> <flat> <rise> <fall>
+ours	2	<flat> <fall> <fall> <rise> <flat> <flat> <fall> <flat> <rise> <rise>
+ours	2	<flat> <fall> <fall> <rise> <flat> <flat> <fall> <flat> <rise> <flat>
+ours	2	<flat> <fall> <rise> <flat> <flat> <fall> <rise> <rise>
+ours	3	<flat> <fall> <flat> <rise> <flat> <fall> <rise> <flat>
+ours	3	<flat> <fall> <rise> <fall> <rise> <fall>
+ours	3	<flat> <rise> <fall> <rise> <flat> <fall> <rise> <flat>
+ours	3	<flat> <rise> <fall> <rise> <flat> <rise>
+ours	4	<flat> <fall> <fall> <rise> <fall> <rise> <fall> <rise> <rise>
+ours	4	<flat> <fall> <rise> <flat> <fall> <rise> <flat> <fall> <fall> <rise>
+ours	4	<flat> <fall> <fall> <rise> <fall> <rise> <fall> <flat> <rise>
+ours	4	<flat> <fall> <fall> <rise> <fall> <rise>
+ours	5	<flat> <flat> <fall> <rise> <flat> <fall> <rise> <flat> <rise>
+ours	5	<flat> <fall> <rise> <flat> <fall> <rise> <fall> <rise> <rise>
+ours	5	<flat> <flat> <fall> <rise> <flat> <flat> <fall> <fall>
+ours	5	<flat> <flat> <fall> <fall> <fall> <rise> <fall>
+ours	6	<flat> <rise> <flat> <fall> <rise> <rise> <fall> <rise> <rise>
+ours	6	<flat> <rise> <flat> <fall> <rise> <flat>
+ours	6	<flat> <rise> <flat> <fall> <rise> <rise> <fall> <rise> <flat>
+ours	6	<flat> <fall> <rise> <fall> <fall> <rise> <rise>
+ours	7	<flat> <fall> <rise> <rise> <fall> <flat> <rise> <flat>
+ours	7	<flat> <fall> <rise> <rise> <fall> <flat> <rise> <flat>
+ours	7	<flat> <fall> <rise> <rise> <fall> <flat> <rise> <flat>
+ours	7	<flat> <fall> <flat> <rise> <fall> <rise> <rise> <fall> <rise> <fall>
+ours	8	<flat> <fall> <rise> <rise> <fall> <fall> <rise> <fall> <rise>
+ours	8	<flat> <fall> <rise> <rise> <fall> <rise> <flat> <fall> <flat>
+ours	8	<flat> <fall> <rise> <fall> <rise> <fall> <rise> <fall> <rise> <fall>
+ours	8	<flat> <fall> <rise> <fall> <rise> <fall> <rise> <fall> <fall> <rise> <flat>
+ours	9	<flat> <fall> <rise> <fall> <rise> <flat> <flat> <flat> <flat> <fall>
+ours	9	<flat> <fall> <rise> <fall> <rise> <flat> <flat> <fall> <fall> <rise>
+ours	9	<flat> <fall> <rise> <rise> <fall> <rise> <flat> <fall> <flat>
+ours	9	<flat> <fall> <rise> <flat> <fall> <flat> <rise>
+human	0	<flat> <flat> <rise> <rise> <rise> <fall> <flat>
+human	0	<flat> <fall> <rise> <fall> <rise> <fall> <rise>
+human	0	<flat> <rise> <fall> <rise> <fall> <fall> <rise> <rise>
+human	0	<flat> <fall> <rise> <flat> <flat>
+human	1	<flat> <flat> <fall> <fall> <rise> <flat> <fall> <fall> <rise> <fall>
+human	1	<flat> <rise> <flat> <flat> <flat> <rise> <flat> <fall> <rise> <fall>
+human	1	<flat> <rise> <rise> <fall> <rise> <fall> <fall> <rise> <flat>
+human	1	<flat> <fall> <rise> <fall> <flat> <rise> <fall> <flat> <fall>
+human	2	<flat> <rise> <flat> <fall> <rise> <fall> <flat> <rise> <flat> <fall>
+human	2	<flat> <rise> <rise> <fall> <fall> <rise> <rise> <fall> <rise> <fall>
+human	2	<flat> <flat> <flat> <fall> <rise> <fall> <rise> <rise> <fall> <rise>
+human	2	<flat> <fall> <fall> <rise> <rise> <fall> <rise> <fall>
+human	3	<flat> <flat> <rise> <flat> <fall> <fall> <rise> <fall>
+human	3	<flat> <fall> <fall> <rise> <rise> <flat>
+human	3	<flat> <rise> <rise> <flat> <fall> <fall> <rise> <rise>
+human	3	<flat> <fall> <flat> <rise> <rise> <flat>
+human	4	<flat> <rise> <flat> <flat> <fall> <fall> <fall> <rise> <rise>
+human	4	<flat> <fall> <fall> <rise> <rise> <rise> <flat> <fall> <rise> <flat>
+human	4	<flat> <flat> <flat> <fall> <flat> <fall> <rise> <fall> <rise>
+human	4	<flat> <fall> <rise> <fall> <rise> <rise>
+human	5	<flat> <fall> <fall> <rise> <rise> <fall> <rise> <flat> <rise>
+human	5	<flat> <flat> <rise> <rise> <fall> <flat> <fall> <rise> <fall>
+human	5	<flat> <fall> <rise> <rise> <fall> <rise> <flat> <fall>
+human	5	<flat> <fall> <flat> <rise> <flat> <flat> <flat>
+human	6	<flat> <rise> <fall> <rise> <flat> <fall> <fall> <rise> <fall>
+human	6	<flat> <fall> <rise> <rise> <fall> <rise>
+human	6	<flat> <rise> <fall> <rise> <flat> <flat> <fall> <fall> <fall>
+human	6	<flat> <rise> <rise> <fall> <fall> <rise> <fall>
+human	7	<flat> <fall> <rise> <fall> <fall> <fall> <rise> <flat>
+human	7	<flat> <rise> <fall> <flat> <rise> <flat> <fall> <flat>
+human	7	<flat> <flat> <rise> <flat> <fall> <rise> <fall> <rise>
+human	7	<flat> <rise> <fall> <fall> <flat> <rise> <flat> <fall> <rise> <rise>
+human	8	<flat> <flat> <fall> <rise> <rise> <fall> <fall> <rise> <flat>
+human	8	<flat> <fall> <fall> <rise> <fall> <fall> <flat> <rise> <rise>
+human	8	<flat> <rise> <flat> <rise> <rise> <flat> <fall> <flat> <rise> <flat>
+human	8	<flat> <rise> <fall> <rise> <flat> <flat> <flat> <fall> <rise> <fall> <rise>
+human	9	<flat> <flat> <fall> <rise> <flat> <fall> <rise> <fall> <rise> <rise>
+human	9	<flat> <flat> <fall> <fall> <rise> <flat> <rise> <flat> <flat> <flat>
+human	9	<flat> <rise> <flat> <flat> <fall> <rise> <flat> <rise> <fall>
+human	9	<flat> <flat> <rise> <flat> <fall> <rise> <flat>
+3-height	0	<flat> <fall> <rise> <rise> <rise> <fall> <rise>
+3-height	0	<flat> <fall> <rise> <rise> <rise> <fall> <rise>
+3-height	0	<flat> <flat> <rise> <rise> <flat> <fall> <rise> <fall>
+3-height	0	<flat> <flat> <fall> <fall> <rise>
+3-height	1	<flat> <fall> <flat> <flat> <fall> <flat> <flat> <flat> <rise> <fall>
+3-height	1	<flat> <fall> <flat> <flat> <flat> <fall> <flat> <rise> <fall> <rise>
+3-height	1	<flat> <rise> <fall> <fall> <flat> <fall> <rise> <rise> <fall>
+3-height	1	<flat> <fall> <rise> <rise> <rise> <fall> <rise> <fall> <rise>
+3-height	2	<flat> <fall> <fall> <rise> <flat> <flat> <flat> <flat> <fall> <rise>
+3-height	2	<flat> <fall> <fall> <rise> <flat> <rise> <fall> <rise> <flat> <flat>
+3-height	2	<flat> <fall> <fall> <rise> <flat> <flat> <flat> <flat> <fall> <rise>
+3-height	2	<flat> <flat> <rise> <fall> <rise> <flat> <fall> <rise>
+3-height	3	<flat> <rise> <rise> <rise> <flat> <flat> <fall> <fall>
+3-height	3	<flat> <flat> <fall> <rise> <fall> <fall>
+3-height	3	<flat> <flat> <flat> <rise> <rise> <flat> <flat> <fall>
+3-height	3	<flat> <fall> <rise> <rise> <flat> <flat>
+3-height	4	<flat> <flat> <rise> <rise> <fall> <flat> <rise> <rise> <flat>
+3-height	4	<flat> <flat> <rise> <flat> <fall> <rise> <rise> <flat> <fall> <fall>
+3-height	4	<flat> <flat> <rise> <fall> <fall> <fall> <rise> <rise> <fall>
+3-height	4	<flat> <flat> <rise> <flat> <fall> <rise>
+3-height	5	<flat> <fall> <flat> <rise> <rise> <flat> <fall> <rise> <flat>
+3-height	5	<flat> <fall> <fall> <rise> <rise> <flat> <flat> <flat> <fall>
+3-height	5	<flat> <rise> <flat> <fall> <flat> <flat> <rise> <fall>
+3-height	5	<flat> <flat> <flat> <flat> <rise> <fall> <flat>
+3-height	6	<flat> <rise> <rise> <flat> <fall> <flat> <rise> <fall> <flat>
+3-height	6	<flat> <rise> <fall> <rise> <fall> <rise>
+3-height	6	<flat> <rise> <rise> <flat> <fall> <flat> <flat> <rise> <fall>
+3-height	6	<flat> <flat> <fall> <flat> <rise> <fall> <flat>
+3-height	7	<flat> <rise> <fall> <flat> <fall> <rise> <rise> <flat>
+3-height	7	<flat> <rise> <fall> <rise> <fall> <flat> <rise> <fall>
+3-height	7	<flat> <rise> <fall> <rise> <fall> <rise> <rise> <flat>
+3-height	7	<flat> <fall> <fall> <fall> <rise> <flat> <fall> <fall> <rise> <fall>
+3-height	8	<flat> <fall> <fall> <rise> <rise> <fall> <rise> <fall> <fall>
+3-height	8	<flat> <flat> <fall> <rise> <rise> <fall> <flat> <flat> <flat>
+3-height	8	<flat> <fall> <fall> <flat> <flat> <flat> <flat> <flat> <flat> <fall>
+3-height	8	<flat> <flat> <flat> <rise> <fall> <rise> <fall> <fall> <rise> <fall> <flat>
+3-height	9	<flat> <flat> <rise> <rise> <flat> <fall> <rise> <fall> <rise> <flat>
+3-height	9	<flat> <fall> <rise> <fall> <flat> <fall> <rise> <fall> <rise> <fall>
+3-height	9	<flat> <fall> <rise> <rise> <rise> <fall> <rise> <flat> <fall>
+3-height	9	<flat> <fall> <rise> <flat> <flat> <fall> <rise>
+5-height	0	<flat> <fall> <rise> <rise> <fall> <rise> <rise>
+5-height	0	<flat> <fall> <rise> <rise> <fall> <flat> <flat>
+5-height	0	<flat> <fall> <rise> <rise> <fall> <flat> <rise> <fall>
+5-height	0	<flat> <rise> <flat> <fall> <flat>
+5-height	1	<flat> <fall> <fall> <rise> <fall> <fall> <flat> <flat> <flat> <flat>
+5-height	1	<flat> <fall> <fall> <rise> <fall> <fall> <flat> <rise> <fall> <fall>
+5-height	1	<flat> <rise> <rise> <fall> <flat> <fall> <rise> <fall> <rise>
+5-height	1	<flat> <fall> <rise> <fall> <rise> <flat> <flat> <flat> <fall>
+5-height	2	<flat> <fall> <fall> <rise> <fall> <rise> <rise> <rise> <fall> <fall>
+5-height	2	<flat> <fall> <fall> <rise> <flat> <rise> <fall> <rise> <rise> <flat>
+5-height	2	<flat> <fall> <fall> <rise> <flat> <fall> <rise> <fall> <flat> <fall>
+5-height	2	<flat> <rise> <rise> <fall> <rise> <flat> <fall> <rise>
+5-height	3	<flat> <fall> <rise> <rise> <flat> <fall> <fall> <rise>
+5-height	3	<flat> <flat> <fall> <rise> <fall> <fall>
+5-height	3	<flat> <rise> <flat> <rise> <flat> <flat> <flat> <fall>
+5-height	3	<flat> <fall> <rise> <rise> <rise> <flat>
+5-height	4	<flat> <rise> <rise> <rise> <fall> <flat> <rise> <rise> <rise>
+5-height	4	<flat> <rise> <rise> <rise> <fall> <rise> <rise> <flat> <fall> <fall>
+5-height	4	<flat> <rise> <rise> <rise> <fall> <flat> <rise> <rise> <rise>
+5-height	4	<flat> <rise> <rise> <rise> <fall> <rise>
+5-height	5	<flat> <flat> <fall> <rise> <rise> <fall> <rise> <rise> <fall>
+5-height	5	<flat> <flat> <fall> <rise> <rise> <flat> <flat> <rise> <fall>
+5-height	5	<flat> <rise> <rise> <fall> <flat> <rise> <fall> <fall>
+5-height	5	<flat> <rise> <fall> <rise> <rise> <fall> <rise>
+5-height	6	<flat> <rise> <flat> <fall> <flat> <fall> <flat> <rise> <rise>
+5-height	6	<flat> <rise> <fall> <rise> <fall> <flat>
+5-height	6	<flat> <rise> <flat> <fall> <fall> <rise> <fall> <rise> <rise>
+5-height	6	<flat> <rise> <fall> <rise> <flat> <fall> <rise>
+5-height	7	<flat> <rise> <fall> <rise> <flat> <fall> <rise> <fall>
+5-height	7	<flat> <rise> <fall> <rise> <fall> <flat> <rise> <fall>
+5-height	7	<flat> <rise> <fall> <rise> <fall> <flat> <rise> <rise>
+5-height	7	<flat> <rise> <fall> <fall> <rise> <flat> <fall> <fall> <rise> <flat>
+5-height	8	<flat> <fall> <fall> <rise> <rise> <fall> <flat> <flat> <rise>
+5-height	8	<flat> <fall> <fall> <rise> <rise> <fall> <flat> <flat> <rise>
+5-height	8	<flat> <flat> <fall> <flat> <fall> <flat> <flat> <rise> <fall> <flat>
+5-height	8	<flat> <rise> <flat> <fall> <rise> <flat> <flat> <flat> <flat> <fall> <fall>
+5-height	9	<flat> <fall> <rise> <rise> <fall> <flat> <flat> <flat> <flat> <rise>
+5-height	9	<flat> <fall> <rise> <rise> <fall> <fall> <rise> <fall> <rise> <flat>
+5-height	9	<flat> <fall> <rise> <rise> <fall> <rise> <rise> <fall> <fall>
+5-height	9	<flat> <fall> <rise> <rise> <flat> <fall> <rise>
+4-height	0	<flat> <fall> <rise> <rise> <rise> <fall> <rise>
+4-height	0	<flat> <fall> <rise> <rise> <fall> <flat> <rise>
+4-height	0	<flat> <fall> <rise> <rise> <rise> <fall> <rise> <fall>
+4-height	0	<flat> <rise> <flat> <fall> <rise>
+4-height	1	<flat> <fall> <rise> <flat> <flat> <fall> <flat> <flat> <flat> <flat>
+4-height	1	<flat> <fall> <flat> <flat> <fall> <flat> <flat> <flat> <rise> <fall>
+4-height	1	<flat> <rise> <fall> <fall> <flat> <fall> <rise> <rise> <fall>
+4-height	1	<flat> <fall> <rise> <fall> <fall> <rise> <rise> <fall> <flat>
+4-height	2	<flat> <fall> <flat> <rise> <flat> <fall> <rise> <fall> <flat> <fall>
+4-height	2	<flat> <fall> <fall> <rise> <flat> <rise> <fall> <rise> <flat> <fall>
+4-height	2	<flat> <flat> <fall> <rise> <flat> <fall> <rise> <fall> <flat> <fall>
+4-height	2	<flat> <rise> <rise> <fall> <rise> <flat> <fall> <rise>
+4-height	3	<flat> <rise> <flat> <flat> <rise> <flat> <fall> <fall>
+4-height	3	<flat> <flat> <fall> <rise> <fall> <fall>
+4-height	3	<flat> <rise> <flat> <rise> <flat> <flat> <flat> <fall>
+4-height	3	<flat> <fall> <rise> <rise> <rise> <flat>
+4-height	4	<flat> <rise> <rise> <flat> <fall> <flat> <rise> <rise> <flat>
+4-height	4	<flat> <rise> <rise> <flat> <fall> <rise> <rise> <flat> <fall> <fall>
+4-height	4	<flat> <rise> <rise> <fall> <fall> <flat> <rise> <fall> <rise>
+4-height	4	<flat> <rise> <flat> <flat> <fall> <rise>
+4-height	5	<flat> <fall> <fall> <rise> <rise> <flat> <fall> <rise> <fall>
+4-height	5	<flat> <fall> <rise> <fall> <rise> <flat> <flat> <rise> <fall>
+4-height	5	<flat> <rise> <rise> <fall> <flat> <rise> <rise> <fall>
+4-height	5	<flat> <rise> <fall> <rise> <rise> <fall> <rise>
+4-height	6	<flat> <rise> <fall> <flat> <fall> <flat> <flat> <rise> <flat>
+4-height	6	<flat> <rise> <rise> <fall> <flat> <flat>
+4-height	6	<flat> <rise> <rise> <flat> <fall> <flat> <flat> <rise> <rise>
+4-height	6	<flat> <flat> <fall> <rise> <fall> <rise> <fall> <rise>
+4-height	7	<flat> <rise> <fall> <rise> <fall> <flat> <rise> <fall>
+4-height	7	<flat> <rise> <fall> <rise> <fall> <flat> <rise> <fall>
+4-height	7	<flat> <rise> <fall> <rise> <fall> <flat> <rise> <rise>
+4-height	7	<flat> <flat> <fall> <fall> <rise> <flat> <fall> <fall> <rise> <flat>
+4-height	8	<flat> <fall> <fall> <rise> <rise> <fall> <flat> <flat> <fall>
+4-height	8	<flat> <flat> <fall> <rise> <rise> <fall> <flat> <flat> <flat>
+4-height	8	<flat> <flat> <fall> <flat> <flat> <flat> <flat> <flat> <flat> <fall>
+4-height	8	<flat> <rise> <fall> <rise> <rise> <flat> <flat> <flat> <fall> <rise> <fall>
+4-height	9	<flat> <fall> <rise> <flat> <fall> <flat> <flat> <flat> <flat> <fall>
+4-height	9	<flat> <fall> <rise> <rise> <fall> <fall> <rise> <fall> <rise> <flat>
+4-height	9	<flat> <fall> <rise> <rise> <fall> <rise> <flat> <flat> <fall>
+4-height	9	<flat> <fall> <rise> <flat> <flat> <fall> <rise>
+6-height	0	<flat> <fall> <rise> <fall> <rise> <rise> <fall>
+6-height	0	<flat> <fall> <rise> <flat> <rise> <flat> <rise>
+6-height	0	<flat> <fall> <rise> <fall> <rise> <flat> <flat> <flat>
+6-height	0	<flat> <rise> <flat> <fall> <rise>
+6-height	1	<flat> <fall> <fall> <flat> <flat> <flat> <flat> <rise> <fall> <flat>
+6-height	1	<flat> <flat> <fall> <rise> <fall> <rise> <flat> <flat> <flat> <flat>
+6-height	1	<flat> <rise> <rise> <fall> <rise> <rise> <fall> <flat> <flat>
+6-height	1	<flat> <fall> <rise> <flat> <rise> <flat> <flat> <fall> <flat>
+6-height	2	<flat> <fall> <flat> <flat> <flat> <flat> <flat> <flat> <flat> <flat>
+6-height	2	<flat> <fall> <fall> <rise> <fall> <rise> <flat> <flat> <flat> <flat>
+6-height	2	<flat> <fall> <flat> <rise> <rise> <fall> <flat> <flat> <fall> <flat>
+6-height	2	<flat> <rise> <rise> <fall> <fall> <rise> <flat> <flat>
+6-height	3	<flat> <rise> <rise> <flat> <fall> <flat> <flat> <flat>
+6-height	3	<flat> <rise> <fall> <rise> <fall> <fall>
+6-height	3	<flat> <rise> <flat> <rise> <flat> <flat> <fall> <flat>
+6-height	3	<flat> <fall> <rise> <rise> <flat> <flat>
+6-height	4	<flat> <rise> <rise> <flat> <fall> <rise> <rise> <flat> <flat>
+6-height	4	<flat> <rise> <flat> <rise> <fall> <flat> <flat> <flat> <flat> <flat>
+6-height	4	<flat> <rise> <flat> <rise> <fall> <rise> <rise> <rise> <rise>
+6-height	4	<flat> <rise> <rise> <flat> <flat> <flat>
+6-height	5	<flat> <fall> <fall> <rise> <rise> <rise> <fall> <rise> <rise>
+6-height	5	<flat> <fall> <fall> <rise> <rise> <flat> <flat> <flat> <flat>
+6-height	5	<flat> <flat> <flat> <rise> <fall> <fall> <flat> <flat>
+6-height	5	<flat> <rise> <flat> <rise> <flat> <fall> <flat>
+6-height	6	<flat> <rise> <flat> <fall> <flat> <rise> <flat> <flat> <flat>
+6-height	6	<flat> <rise> <fall> <flat> <fall> <rise>
+6-height	6	<flat> <rise> <fall> <flat> <rise> <rise> <flat> <flat> <flat>
+6-height	6	<flat> <flat> <fall> <rise> <fall> <rise> <flat> <flat>
+6-height	7	<flat> <rise> <fall> <rise> <flat> <flat> <flat> <flat>
+6-height	7	<flat> <rise> <fall> <rise> <flat> <fall> <rise> <fall>
+6-height	7	<flat> <flat> <flat> <flat> <flat> <flat> <flat> <flat>
+6-height	7	<flat> <flat> <flat> <flat> <fall> <fall> <rise> <flat> <fall> <rise>
+6-height	8	<flat> <flat> <fall> <rise> <flat> <flat> <flat> <flat> <flat>
+6-height	8	<flat> <fall> <fall> <rise> <rise> <fall> <rise> <flat> <flat>
+6-height	8	<flat> <fall> <flat> <flat> <fall> <flat> <flat> <flat> <flat> <flat>
+6-height	8	<flat> <rise> <flat> <rise> <fall> <rise> <fall> <flat> <fall> <flat> <flat>
+6-height	9	<flat> <fall> <rise> <rise> <flat> <fall> <flat> <flat> <flat> <flat>
+6-height	9	<flat> <flat> <flat> <flat> <flat> <flat> <flat> <flat> <flat> <flat>
+6-height	9	<flat> <fall> <rise> <rise> <fall> <flat> <rise> <fall> <fall> <flat>
+6-height	9	<flat> <fall> <rise> <rise> <flat> <flat>
+chatgpt	0	<flat> <rise> <fall> <flat> <flat> <fall> <flat>
+chatgpt	0	<flat> <flat> <flat> <rise> <flat> <flat> <rise>
+chatgpt	0	<flat> <fall> <rise> <fall> <rise> <fall> <fall> <rise>
+chatgpt	0	<flat> <rise> <flat> <fall> <rise>
+chatgpt	1	<flat> <fall> <rise> <rise> <flat> <flat> <fall> <fall> <rise> <fall>
+chatgpt	1	<flat> <fall> <rise> <flat> <rise> <flat> <fall> <rise> <flat> <flat>
+chatgpt	1	<flat> <fall> <flat> <rise> <fall> <rise> <flat> <fall> <fall>
+chatgpt	1	<flat> <fall> <rise> <rise> <flat> <fall> <rise> <flat> <fall>
+chatgpt	2	<flat> <rise> <fall> <fall> <rise> <fall> <rise> <fall> <flat> <fall>
+chatgpt	2	<flat> <fall> <rise> <rise> <flat> <flat> <fall> <flat> <fall> <flat>
+chatgpt	2	<flat> <flat> <fall> <fall> <rise> <flat> <fall> <flat> <rise> <rise>
+chatgpt	2	<flat> <rise> <fall> <rise> <flat> <flat> <flat> <fall>
+chatgpt	3	<flat> <rise> <rise> <rise> <fall> <flat> <rise> <fall>
+chatgpt	3	<flat> <fall> <flat> <rise> <rise> <flat>
+chatgpt	3	<flat> <fall> <rise> <fall> <rise> <fall> <rise> <flat>
+chatgpt	3	<flat> <flat> <fall> <rise> <flat> <flat>
+chatgpt	4	<flat> <rise> <flat> <rise> <rise> <flat> <flat> <fall> <flat>
+chatgpt	4	<flat> <rise> <fall> <rise> <rise> <fall> <rise> <fall> <fall> <flat>
+chatgpt	4	<flat> <rise> <fall> <rise> <fall> <rise> <fall> <fall> <rise>
+chatgpt	4	<flat> <rise> <rise> <fall> <flat> <fall>
+chatgpt	5	<flat> <fall> <rise> <rise> <flat> <rise> <fall> <rise> <fall>
+chatgpt	5	<flat> <fall> <flat> <fall> <rise> <rise> <flat> <fall> <fall>
+chatgpt	5	<flat> <flat> <flat> <flat> <flat> <flat> <fall> <rise>
+chatgpt	5	<flat> <rise> <fall> <rise> <flat> <rise> <fall>
+chatgpt	6	<flat> <flat> <flat> <fall> <flat> <rise> <rise> <fall> <flat>
+chatgpt	6	<flat> <rise> <fall> <fall> <flat> <rise>
+chatgpt	6	<flat> <rise> <fall> <rise> <fall> <rise> <fall> <fall> <rise>
+chatgpt	6	<flat> <rise> <fall> <rise> <fall> <flat> <fall>
+chatgpt	7	<flat> <flat> <fall> <fall> <rise> <rise> <fall> <rise>
+chatgpt	7	<flat> <fall> <flat> <rise> <fall> <fall> <rise> <fall>
+chatgpt	7	<flat> <rise> <flat> <rise> <fall> <rise> <flat> <flat>
+chatgpt	7	<flat> <flat> <flat> <flat> <flat> <fall> <fall> <rise> <flat> <fall>
+chatgpt	8	<flat> <rise> <fall> <fall> <rise> <rise> <flat> <flat> <fall>
+chatgpt	8	<flat> <rise> <fall> <rise> <rise> <fall> <flat> <flat> <rise>
+chatgpt	8	<flat> <flat> <flat> <rise> <flat> <fall> <flat> <flat> <rise> <fall>
+chatgpt	8	<flat> <rise> <fall> <fall> <flat> <rise> <flat> <flat> <flat> <flat> <flat>
+chatgpt	9	<flat> <flat> <flat> <fall> <flat> <flat> <flat> <rise> <flat> <fall>
+chatgpt	9	<flat> <flat> <fall> <rise> <flat> <fall> <flat> <rise> <rise> <fall>
+chatgpt	9	<flat> <rise> <flat> <fall> <flat> <rise> <flat> <fall> <flat>
+chatgpt	9	<flat> <flat> <fall> <rise> <flat> <fall> <rise>
